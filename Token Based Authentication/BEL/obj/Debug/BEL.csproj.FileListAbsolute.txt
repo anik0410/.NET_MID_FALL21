@@ -1,0 +1,6 @@
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BEL\bin\Debug\BEL.dll
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BEL\bin\Debug\BEL.pdb
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BEL\obj\Debug\BEL.dll
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BEL\obj\Debug\BEL.pdb

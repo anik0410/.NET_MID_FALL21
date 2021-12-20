@@ -1,0 +1,6 @@
+C:\Users\Preeti Rahman\Desktop\.NET codes\BusinessEntityLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Preeti Rahman\Desktop\.NET codes\BusinessEntityLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Preeti Rahman\Desktop\.NET codes\BusinessEntityLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Preeti Rahman\Desktop\.NET codes\BusinessEntityLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Preeti Rahman\Desktop\.NET codes\BusinessEntityLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Preeti Rahman\Desktop\.NET codes\BusinessEntityLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

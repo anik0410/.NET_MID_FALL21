@@ -1,0 +1,9 @@
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\DAL\bin\Debug\DAL.dll.config
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\DAL\bin\Debug\DAL.dll
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\DAL\bin\Debug\DAL.pdb
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\DAL\bin\Debug\EntityFramework.dll
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\DAL\bin\Debug\EntityFramework.xml
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\DAL\obj\Debug\DAL.dll
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\DAL\obj\Debug\DAL.pdb

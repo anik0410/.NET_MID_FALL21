@@ -1,0 +1,15 @@
+D:\.net codes\NewsPortal_1\BLL\bin\Debug\BLL.dll
+D:\.net codes\NewsPortal_1\BLL\bin\Debug\BLL.pdb
+D:\.net codes\NewsPortal_1\BLL\bin\Debug\BEL.dll
+D:\.net codes\NewsPortal_1\BLL\bin\Debug\DAL.dll
+D:\.net codes\NewsPortal_1\BLL\bin\Debug\BEL.pdb
+D:\.net codes\NewsPortal_1\BLL\bin\Debug\DAL.pdb
+D:\.net codes\NewsPortal_1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\.net codes\NewsPortal_1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\.net codes\NewsPortal_1\BLL\obj\Debug\BLL.dll
+D:\.net codes\NewsPortal_1\BLL\obj\Debug\BLL.pdb
+D:\.net codes\NewsPortal_1\BLL\bin\Debug\EntityFramework.dll
+D:\.net codes\NewsPortal_1\BLL\bin\Debug\DAL.dll.config
+D:\.net codes\NewsPortal_1\BLL\bin\Debug\EntityFramework.xml
+D:\.net codes\NewsPortal_1\BLL\bin\Debug\AutoMapper.dll
+D:\.net codes\NewsPortal_1\BLL\bin\Debug\AutoMapper.xml

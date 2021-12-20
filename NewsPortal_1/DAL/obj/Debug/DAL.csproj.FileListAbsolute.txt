@@ -1,0 +1,10 @@
+D:\.net codes\NewsPortal_1\DAL\bin\Debug\DAL.dll
+D:\.net codes\NewsPortal_1\DAL\bin\Debug\DAL.pdb
+D:\.net codes\NewsPortal_1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\.net codes\NewsPortal_1\DAL\obj\Debug\DAL.dll
+D:\.net codes\NewsPortal_1\DAL\obj\Debug\DAL.pdb
+D:\.net codes\NewsPortal_1\DAL\bin\Debug\DAL.dll.config
+D:\.net codes\NewsPortal_1\DAL\bin\Debug\EntityFramework.dll
+D:\.net codes\NewsPortal_1\DAL\bin\Debug\EntityFramework.xml
+D:\.net codes\NewsPortal_1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\.net codes\NewsPortal_1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache

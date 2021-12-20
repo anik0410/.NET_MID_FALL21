@@ -1,0 +1,12 @@
+D:\.net codes\TierCore(SOLID)\BEL\bin\Debug\net5.0\BEL.deps.json
+D:\.net codes\TierCore(SOLID)\BEL\bin\Debug\net5.0\BEL.dll
+D:\.net codes\TierCore(SOLID)\BEL\bin\Debug\net5.0\ref\BEL.dll
+D:\.net codes\TierCore(SOLID)\BEL\bin\Debug\net5.0\BEL.pdb
+D:\.net codes\TierCore(SOLID)\BEL\obj\Debug\net5.0\BEL.csproj.AssemblyReference.cache
+D:\.net codes\TierCore(SOLID)\BEL\obj\Debug\net5.0\BEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net codes\TierCore(SOLID)\BEL\obj\Debug\net5.0\BEL.AssemblyInfoInputs.cache
+D:\.net codes\TierCore(SOLID)\BEL\obj\Debug\net5.0\BEL.AssemblyInfo.cs
+D:\.net codes\TierCore(SOLID)\BEL\obj\Debug\net5.0\BEL.csproj.CoreCompileInputs.cache
+D:\.net codes\TierCore(SOLID)\BEL\obj\Debug\net5.0\BEL.dll
+D:\.net codes\TierCore(SOLID)\BEL\obj\Debug\net5.0\ref\BEL.dll
+D:\.net codes\TierCore(SOLID)\BEL\obj\Debug\net5.0\BEL.pdb

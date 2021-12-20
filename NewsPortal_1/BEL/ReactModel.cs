@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BEL
+{
+    public class ReactModel
+    {
+        public int ReactId { get; set; }
+        public string ReactType { get; set; }
+        public string ReactorName { get; set; }
+        public virtual NewsModel News { get; set; }
+
+    }
+}

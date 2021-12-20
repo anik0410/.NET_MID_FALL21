@@ -1,0 +1,16 @@
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\bin\Debug\BLL.dll
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\bin\Debug\BLL.pdb
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\bin\Debug\BEL.dll
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\bin\Debug\DAL.dll
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\bin\Debug\EntityFramework.dll
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\bin\Debug\BEL.pdb
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\bin\Debug\DAL.pdb
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\bin\Debug\DAL.dll.config
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\bin\Debug\EntityFramework.xml
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\obj\Debug\BLL.dll
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\obj\Debug\BLL.pdb
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\bin\Debug\AutoMapper.dll
+E:\.net codes\Tanvir Sir .net project\ap.netfal21_B-master\ap.netfal21_B-master\Blog_Api2\BLL\bin\Debug\AutoMapper.xml

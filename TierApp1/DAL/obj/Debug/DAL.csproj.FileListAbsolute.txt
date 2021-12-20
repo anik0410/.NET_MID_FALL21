@@ -1,0 +1,10 @@
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\DAL\bin\Debug\DAL.dll.config
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\DAL\bin\Debug\DAL.dll
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\DAL\obj\Debug\DAL.dll
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\DAL\obj\Debug\DAL.pdb

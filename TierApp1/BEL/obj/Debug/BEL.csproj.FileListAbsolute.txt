@@ -1,0 +1,6 @@
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\BEL\bin\Debug\BEL.dll
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\BEL\bin\Debug\BEL.pdb
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\BEL\obj\Debug\BEL.dll
+C:\Users\Preeti Rahman\Desktop\.NET codes\TierApp1\BEL\obj\Debug\BEL.pdb
